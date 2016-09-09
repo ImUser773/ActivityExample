@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Activity Example</string>
+    <string name="set_image">set Image</string>
+</resources>
